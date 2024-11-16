@@ -1,0 +1,9 @@
+[submodule "gui"]
+	path = gui
+	url = https://github.com/TheBug-lab/vectorcraft-gui
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/TheBug-lab/vectorcraft-demo
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TheBug-lab/vectorcraft-backend
